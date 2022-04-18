@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/QtWidgetsApplication1">
+        <file>E:/png/OFFF.png</file>
+        <file>E:/png/ONN.png</file>
+    </qresource>
+</RCC>
