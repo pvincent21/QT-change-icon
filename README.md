@@ -1,4 +1,4 @@
-# QT-change-icon
+# QT-change-icon VScode
 Visual Stduio Code + QT Designer ver.6
 
 install Visual Studio Code from https://code.visualstudio.com/Download
